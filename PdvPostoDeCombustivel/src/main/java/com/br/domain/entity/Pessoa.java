@@ -2,7 +2,7 @@ package com.br.domain.entity;
 
 import java.util.Date;
 
-public class Pessoa(){
+public class Pessoa{
 
   // atributos
   private String nomeCompleto;
